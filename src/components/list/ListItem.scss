@@ -1,0 +1,9 @@
+.list-item {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  .view-details {
+    color: #189d90;
+    cursor: pointer;
+  }
+}
